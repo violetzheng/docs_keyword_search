@@ -1,10 +1,7 @@
 # Doc Search
 Mini C++ CLI app for searching keywords across local PDF research documents.
 
-## Install dependency
-
-### macOS
-
+## Dependencies
 ```bash
 brew install poppler cmake
 ```
