@@ -1,0 +1,3 @@
+/Users/User/Documents/unimelb_2026/pdfsearch_app/build/CMakeFiles/pdfsearch.dir
+/Users/User/Documents/unimelb_2026/pdfsearch_app/build/CMakeFiles/edit_cache.dir
+/Users/User/Documents/unimelb_2026/pdfsearch_app/build/CMakeFiles/rebuild_cache.dir
